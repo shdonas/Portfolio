@@ -1,7 +1,7 @@
-# portfolio
+# Personal Portfolio
 This is a personal portfolio/web applications that will workwith different browser, devices, and screen sizes. This page is my Professional prtfolio webpage.
 
-# tools used
+# Tools used
 html, css, and bootstrap.
 also uses w3school css stylesheet
 

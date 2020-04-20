@@ -6,17 +6,17 @@ html, css, and bootstrap.
 also uses w3school css stylesheet
 
 # Portfolio Screenshot
-![Screenshot](assets/sc.JPG)
+![Screenshot](image/sc.JPG)
 
 # projects
 Meal & Sips
-<img src="../image/MealPrep.JPG">
+<img src="image/MealPrep.JPG">
 
 Weather App
-<img src="../image/WeatherApp.JPG">
+<img src="image/WeatherApp.JPG">
 
 Work Day Scheduler
-<img src="../image/todo.JPG">
+<img src="image/todo.JPG">
 
 
 # Other details
